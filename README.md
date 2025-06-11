@@ -26,5 +26,6 @@
 4. slash komutlarını `npx ts-node src/utils/deployCommands.ts` şu şekilde sunucuya yükleyin
 5. işte bu kadar `npm run dev` veya `ts-node src/index.ts` yazarak projenizi açabilirsiniz.
 
+---
 
 slow3rxq tarafından ❤️ ile yapıldı
