@@ -6,7 +6,7 @@
 
 ---
 
-## Özellikler
+## 🚀 Özellikler
 
 - `/ticket` komutu ile ticket oluşturma paneli gönderme  
 - Buton ile yeni ticket kanalı oluşturma  
@@ -18,7 +18,7 @@
 
 ---
 
-## Kurulum
+## 📦 Kurulum
 
 1. projeyi indirin ve editör programında açın.
 2. src/config.ts dosyasına girin ve bilgileri doldurun.
